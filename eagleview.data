@@ -1,0 +1,7 @@
+classes = 2
+train =./train.txt
+valid =./val.txt
+test  = ./test.txt
+names =./eagleview.names
+backup = ./backup
+results = ./results

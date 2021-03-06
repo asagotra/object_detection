@@ -29,7 +29,7 @@ About Darknet framework: http://pjreddie.com/darknet/
    * [Legacy way](#how-to-compile-on-windows-legacy-way)
 4. [Training and Evaluation of speed and accuracy on MS COCO](https://github.com/AlexeyAB/darknet/wiki#training-and-evaluation-of-speed-and-accuracy-on-ms-coco)
 5. [How to train with multi-GPU:](#how-to-train-with-multi-gpu)
-6. [Model Inference](#Model Inference Command)
+6. [Model Inference:](#Inference)
 7. [How to train (to detect your custom objects)](#how-to-train-to-detect-your-custom-objects)
 8. [How to use Yolo as DLL and SO libraries](#how-to-use-yolo-as-dll-and-so-libraries)
 
